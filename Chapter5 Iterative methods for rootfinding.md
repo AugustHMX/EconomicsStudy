@@ -1,7 +1,7 @@
 ---
 share: true
 ---
-
+#ECON2001 
 
 # 5.1 Principle of iterative methods
 ## 5.1.1 Fixed point iteration
